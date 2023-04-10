@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Mein Wissensmanagement",
+    "description": "Der Titel in der Navigationsleiste"
+  },
+  "logo.alt": {
+    "message": "My Knowledge Management",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
