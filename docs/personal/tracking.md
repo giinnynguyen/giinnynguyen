@@ -8,7 +8,7 @@ Here is a list of various things I track for my own use and reference.
 + [Letterboxd](https://letterboxd.com/giinny9x/): Movies tracking 
 
 ## Code
-+ [Leetcode](https://leetcode.com/dice196/): [my leetcode problem solving](https://github.com/giinnynguyen/LeetCode)
++ [Leetcode](https://leetcode.com/dice196/): my leetcode [problem solving](https://github.com/giinnynguyen/LeetCode)
 
 ## Digital Art
 + [Deviantart](https://www.deviantart.com/excalibur3575): my learning digital art
