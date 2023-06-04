@@ -5,7 +5,7 @@ Here is a list of various things I track for my own use and reference.
 + [Goodreads](https://www.goodreads.com/user/show/40601906-ginny): Books finished read
 
 ## Movie
-+ [Letterboxd](https://letterboxd.com/giinny9x/): Movies tracking 
++ [Letterboxd](https://letterboxd.com/giinny9x/): movie notes and thoughts
 
 ## Code
 + [Leetcode](https://leetcode.com/dice196/): my leetcode [problem solving](https://github.com/giinnynguyen/LeetCode)
