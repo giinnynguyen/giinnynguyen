@@ -26,7 +26,7 @@ Mình từng có ý định làm content creator
 Mình: long time no see, cậu còn nhớ mình ko<br/>
 Cậu ấy: à, ra là cậu á. Chỉ ấn tượng là cậu viết rất hay, mình có stalk cmt của cậu
 
-4. Mình dành khá nhiều thời gian trong ngày để sống trong đầu. Bây giờ ít hơn trước rất nhiều rồi, ngày trước mình còn không thích nói chuyện. Mình từng có thời gian 1 năm không gặp ai ngoài bà cô bán cơm, chuyên đọc về các thứ không có áp dụng được vào thực tế, miễn thấy hứng thú thì đọc. Biết xong để đó
+4. Chuyên đọc về các thứ không có áp dụng được vào thực tế, miễn thấy hứng thú thì đọc. Simp knowledge
 
 5. Mình hay xì trét với các lựa chọn. Đấy là Thiên Bình điển hình. Vd đặt tên nick phải suy nghĩ đắn đo nhiều, vì nó sẽ theo mình lâu dài. Một cái tên không thể chỉ có 1 ý nghĩa thôi mà được
 
@@ -50,4 +50,17 @@ Think Cú<br/>
 Bình Yên Xoay Vòng<br/>
 Excalibur: thanh kiếm của Saber trong Fate
 
+10. Mình là 1 ISTJ. Hiện tại cuộc sống của mình bị lấp đầy bằng mục tiêu của mình, lý tưởng của mình (nói lý tưởng nghe cho hay thui chớ nó là kiếm tiền =))) <br>
+cố gắng hết mình<br>
+ko nghe người khác phán nhiều<br>
+tin và cố gắng vào bản thân<br>
+=> nên cuộc sống là full of work và learn, mình đạt được những thành tựu nhưng nó chỉ nhỏ và mang giá trị cá nhân. <br>
+Nhưng mình rất hi vọng và mong chờ vào tương lai mà mình đang cố gắng 
 
+11. Luôn muốn tìm thấy người ấy =))) nhưng chuyện hên xui may rủi<br> 
+Tự do ý thích cũng quen rồi, chơi 1 mình cũng ko nguyện rơi vào 1 mối quan hệ ko ý nghĩa 
+
+13. Cố gắng sống chừng mực, còn lại tập trung làm tốt việc của mình<br>
+Philosophy là cân bằng, không ganh đua với thiên hạ <br>
+Trên đời này có 3 việc: <br>
+Việc của bản thân, Việc của người khác, Việc của ông trời. Bản thân chỉ nên quan tâm và làm tốt cái số 1.
