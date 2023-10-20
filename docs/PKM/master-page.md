@@ -21,7 +21,7 @@
 + Letterboxd: https://letterboxd.com/giinny9x
 
 ### Drawing
-+ Deviantart: https://www.deviantart.com/excalibur3575)
++ Deviantart: https://www.deviantart.com/excalibur3575
 
 ### Game
 + https://github.com/giinnynguyen/ginnywiki/blob/main/docs/game/games.md
