@@ -62,9 +62,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Knowledge Management',
+        title: 'Linh tinh',
         logo: {
-          alt: 'My Knowledge Management',
+          alt: 'Linh tinh',
           src: 'img/favicon.ico',
         },
         items: [
