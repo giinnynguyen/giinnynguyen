@@ -1,8 +1,3 @@
----
-sidebar_position: 1
-slug: /
-title: About
----
 # Chỗ Tự Kỷ
 + Book: [Goodreads](https://www.goodreads.com/user/show/40601906)
 + Movie: [Letterboxd](https://letterboxd.com/giinny9x)
