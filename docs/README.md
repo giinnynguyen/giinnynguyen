@@ -24,19 +24,3 @@ Note: This site will use both English and Vietnamese.
 🌸 Domain: Oil & Gas, Betting System, Video Streaming<br/>
 🌸 Development Methodology: Agile/Scrum, Waterfall<br/>
 🌸 Languages: English, German, Vietnamese<br/>
-🌸 Certificate: German B1<br/>
-
-
-# Project
-🌱 Ginny blog: ginnynguyen.dev<br/>
-🌱 Birthday of friend<br/>
-🌱 Think book
-🌱 hpmusic: http://hpmusic.azurewebsites.net/<br/>
-🌱 portfolio: http://phungnguyen.azurewebsites.net/
-
-# Writing
-🍭 Teenfic, poem: https://ginnyv4.wordpress.com/
-
-# Personal site:
-🍉  Soundcloud: https://soundcloud.com/giinnynguyen<br/>
-🍉  Facebook: https://www.facebook.com/ginnynguyenn<br/>
